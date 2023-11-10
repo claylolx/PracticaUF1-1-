@@ -1,0 +1,5 @@
+C:\Users\sergi\OneDrive\Escritorio\entregas github\PracticaUF1-1-\bin\Release\net8.0\publish\PracticaUF1-1-.exe
+C:\Users\sergi\OneDrive\Escritorio\entregas github\PracticaUF1-1-\bin\Release\net8.0\publish\PracticaUF1-1-.dll
+C:\Users\sergi\OneDrive\Escritorio\entregas github\PracticaUF1-1-\bin\Release\net8.0\publish\PracticaUF1-1-.deps.json
+C:\Users\sergi\OneDrive\Escritorio\entregas github\PracticaUF1-1-\bin\Release\net8.0\publish\PracticaUF1-1-.runtimeconfig.json
+C:\Users\sergi\OneDrive\Escritorio\entregas github\PracticaUF1-1-\bin\Release\net8.0\publish\PracticaUF1-1-.pdb
